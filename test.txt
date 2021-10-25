@@ -1,1 +1,3 @@
 This is the text code for checking workplace in Git
+
+All about the Python basic
