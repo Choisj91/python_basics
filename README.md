@@ -1,5 +1,5 @@
 # python_basics
-Practice basic concepts or python
+Practice basic concepts of python
 
 Learn basic grammar of python and know how to use
 
