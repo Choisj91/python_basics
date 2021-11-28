@@ -1,6 +1,6 @@
 # python_basics
 Practice basic concepts of python
 
-Learn basic grammar of python and know how to use
+Learn basic grammars of python and know how to use the logic
 
 Learn all the concepts of funcion, class, parameter etc...
